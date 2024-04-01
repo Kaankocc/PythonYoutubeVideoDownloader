@@ -13,7 +13,7 @@ This Python script provides a simple graphical user interface (GUI) for download
 2. **Execution:**
    - Run the script using Python:
      ```
-     python script_name.py
+     python youtube.py
      ```
 
 3. **Interface:**
