@@ -1,4 +1,5 @@
-![YouTube Video Downloader](/image)
+<img src="/image.png" alt="Alt text" width="300">
+
 
 
 **YouTube Video Downloader**
