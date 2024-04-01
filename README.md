@@ -1,8 +1,9 @@
+
+
+
+## YouTube Video Downloader
+
 <img src="/image.png" alt="Alt text" width="300">
-
-
-
-**YouTube Video Downloader**
 
 This Python script provides a simple graphical user interface (GUI) for downloading videos from YouTube. It was created as a small project, developed in approximately an hour, for personal use.
 
